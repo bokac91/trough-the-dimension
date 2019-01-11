@@ -5,14 +5,14 @@ Control the player, avoid obstacles and collect points. While you're in the firs
 
 ***
 ### :package: Installation guide
-After you locate the game folder, type 'make', and afterwards type './pkd' to play! (without single quotes)
+After you locate the game folder, type **'make'**, and afterwards type **'./pkd'** to play! (without quotes)
 
 ***
 ### :video_game: Controls
-* P - Start the game
-* R - Restart (or Start New if you have completed the game)
-* A - Move left (move right in the opposite universe)
-* D - Move right (move left in the opposite universe)
+* **P** - Start the game
+* **R** - Restart (or Start New if you have completed the game)
+* **A** - Move left (move right in the opposite universe)
+* **D** - Move right (move left in the opposite universe)
 
 ***
 ![Error - missing gif.](https://github.com/bokac91/trough-the-dimension/blob/master/videos/g2.gif)
