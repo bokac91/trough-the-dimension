@@ -1,23 +1,22 @@
 # Trough The Dimension
 Simple video game!
 
-###  :information_source: O igri
-Kontrolisi igraca, izbegavaj prepreke i skupljaj poene! Dok si u prvom svetu, sve je normalno, ali se posle stvari menjaju... 
+###  :information_source: About the game
+Control the player, avoid obstacles and collect points. While you're in the first world, everything seems to be normal; however, progressing trough the game will cause your dimension to change!
 
 ***
-### :package: Instalacija
+### :package: Installation guide
 Pokreni komandu 'make' u terminalu (kad se nadjes u folderu projekta), a potom './pkd' (bez navodnika)
+After you locate the game folder, type 'make', and afterwards type './pkd' to play! (without single quotes)
 
 ***
-### :video_game: Kontrole
-* P - Zapocni igru
-* R - Restartuj igru (zapocni novu ako zavrsis igru)
-* A - Pomeri se u levo (u desno u suprotnom univerzumu)
-* D - Pomeri se u desno (u levo u suprotnom univerzumu)
+### :video_game: Controls
+* P - Start the game
+* R - Restart (or Start New if you have completed the game)
+* A - Move left (move right in the opposite universe)
+* D - Move right (move left in the opposite universe)
 
 ***
-![Greska](https://github.com/bokac91/trough-the-dimension/blob/master/videos/g2.gif)
+![Error - missing gif.](https://github.com/bokac91/trough-the-dimension/blob/master/videos/g2.gif)
 ***
-[**Preuzmi gameplay igre (~46MB)**](https://github.com/MATF-RG17/RG069-put-kroz-dimenziju/blob/master/vids/gameplay.mp4)
-***
-**NAPOMENA:** Ovaj ReadMe je inspirisan radom kolege [Luke Zivanovica](https://github.com/Hrimthusar/RG16-029-glide-through-sky).
+**NOTE:** This ReadMe is inspired by the work of a colleague [Luka Zivanović](https://github.com/Hrimthusar/RG16-029-glide-through-sky).
