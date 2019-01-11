@@ -1,5 +1,5 @@
-# RG069-put-kroz-dimenziju
-Put kroz dimenziju
+# Trough The Dimension
+Simple video game!
 
 ###  :information_source: O igri
 Kontrolisi igraca, izbegavaj prepreke i skupljaj poene! Dok si u prvom svetu, sve je normalno, ali se posle stvari menjaju... 
