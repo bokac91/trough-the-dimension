@@ -6,7 +6,6 @@ Control the player, avoid obstacles and collect points. While you're in the firs
 
 ***
 ### :package: Installation guide
-Pokreni komandu 'make' u terminalu (kad se nadjes u folderu projekta), a potom './pkd' (bez navodnika)
 After you locate the game folder, type 'make', and afterwards type './pkd' to play! (without single quotes)
 
 ***
