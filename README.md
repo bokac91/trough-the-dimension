@@ -16,7 +16,7 @@ Pokreni komandu 'make' u terminalu (kad se nadjes u folderu projekta), a potom '
 * D - Pomeri se u desno (u levo u suprotnom univerzumu)
 
 ***
-![Greska](https://raw.githubusercontent.com/MATF-RG17/RG069-put-kroz-dimenziju/master/videos/g2.gif)
+![Greska](https://github.com/bokac91/trough-the-dimension/blob/master/videos/g2.gif)
 ***
 [**Preuzmi gameplay igre (~46MB)**](https://github.com/MATF-RG17/RG069-put-kroz-dimenziju/blob/master/vids/gameplay.mp4)
 ***
