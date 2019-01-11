@@ -1,5 +1,4 @@
-# Trough The Dimension
-Simple video game!
+# Trough The Dimension :rocket:
 
 ###  :information_source: About the game
 Control the player, avoid obstacles and collect points. While you're in the first world, everything seems to be normal; however, progressing trough the game will cause your dimension to change!
